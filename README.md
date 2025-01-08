@@ -11,7 +11,7 @@ Welcome to my GitHub profile! I'm a passionate software developer with a keen in
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/beherasunil)
+[![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin-white&logoColor=fff)](https://www.linkedin.com/in/beherasunil)
 [![Linktree](https://img.shields.io/badge/Linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/beherasunil)
 [![Credly](https://img.shields.io/badge/Credly-FF6F00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/beherasunil)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/beherasunil)
